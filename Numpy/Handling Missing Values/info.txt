@@ -1,0 +1,5 @@
+1. np.isnan ( Detect missing values. Will always return boolean value)
+2. np.nan_to_num (replacing missing values with another number)
+3. np.isinf ( To detct infinite values)
+
+NAN stands for Not A Number. This will be show when a calculation is failed or data is missing from a dataset.
